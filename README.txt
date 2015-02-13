@@ -45,11 +45,6 @@
 	* user_1_scale_free: As user_1 but with ‘model_1_scale_free’ parameters (where applicable)
 
 
-————— 13/02/2015 —————
-
-* test GitHub
-
-
 ————— 02/02/2015 —————
 
 * Make sure all files are correctly annotated (from paper >> R plots >> raw data)
