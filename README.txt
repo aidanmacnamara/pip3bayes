@@ -1,6 +1,6 @@
 * A model of PIP3 metabolism using Bayesian parameter estimation
 
-* TESTGIT MODIFY
+* TEST GIT
 
 ————— Part 1 —————
 
